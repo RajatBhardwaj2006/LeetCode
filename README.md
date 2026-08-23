@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/LearnWithCherry/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/LearnWithCherry/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/LearnWithCherry/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LearnWithCherry/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/LearnWithCherry/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/LearnWithCherry/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/LearnWithCherry/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/LearnWithCherry/LeetCode/tree/master/0412-fizz-buzz) |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/LearnWithCherry/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/LearnWithCherry/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
