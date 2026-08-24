@@ -25,12 +25,14 @@
 | [0704-binary-search](https://github.com/LearnWithCherry/LeetCode/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/LearnWithCherry/LeetCode/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3731-find-missing-elements](https://github.com/LearnWithCherry/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LearnWithCherry/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/LearnWithCherry/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/LearnWithCherry/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LearnWithCherry/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3731-find-missing-elements](https://github.com/LearnWithCherry/LeetCode/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
