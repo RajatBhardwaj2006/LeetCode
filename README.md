@@ -26,6 +26,7 @@
 | [0994-rotting-oranges](https://github.com/LearnWithCherry/LeetCode/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3731-find-missing-elements](https://github.com/LearnWithCherry/LeetCode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/LearnWithCherry/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/LearnWithCherry/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LearnWithCherry/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/LearnWithCherry/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
