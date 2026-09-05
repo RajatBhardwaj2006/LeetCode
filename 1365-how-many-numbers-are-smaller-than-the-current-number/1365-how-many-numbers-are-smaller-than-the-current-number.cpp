@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
-        vector<int> count(nums.size());
+        vector<int> count(nums.size(),0);
 
         for (int i = 0; i < nums.size(); i++) {
 
