@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/LearnWithCherry/LeetCode/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/LearnWithCherry/LeetCode/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LearnWithCherry/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/LearnWithCherry/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LearnWithCherry/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [0001-two-sum](https://github.com/LearnWithCherry/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/LearnWithCherry/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LearnWithCherry/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/LearnWithCherry/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -84,6 +86,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LearnWithCherry/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LearnWithCherry/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/LearnWithCherry/LeetCode/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/LearnWithCherry/LeetCode/tree/master/0069-sqrtx) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LearnWithCherry/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
