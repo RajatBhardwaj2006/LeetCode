@@ -42,6 +42,7 @@
 | [0009-palindrome-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/LearnWithCherry/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/LearnWithCherry/LeetCode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/LearnWithCherry/LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/LearnWithCherry/LeetCode/tree/master/0412-fizz-buzz) |
@@ -128,6 +129,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/LearnWithCherry/LeetCode/tree/master/0412-fizz-buzz) |
 ## Tree
 |  |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LearnWithCherry/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
