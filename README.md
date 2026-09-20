@@ -110,6 +110,7 @@
 | [0058-length-of-last-word](https://github.com/LearnWithCherry/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/LearnWithCherry/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/LearnWithCherry/LeetCode/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/LearnWithCherry/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/LearnWithCherry/LeetCode/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/LearnWithCherry/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
