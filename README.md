@@ -26,6 +26,7 @@
 | [0994-rotting-oranges](https://github.com/LearnWithCherry/LeetCode/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LearnWithCherry/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/LearnWithCherry/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3731-find-missing-elements](https://github.com/LearnWithCherry/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LearnWithCherry/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -127,6 +128,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/LearnWithCherry/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/LearnWithCherry/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
